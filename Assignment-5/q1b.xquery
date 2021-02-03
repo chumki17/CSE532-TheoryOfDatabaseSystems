@@ -1,0 +1,1 @@
+doc("customerinfo.xml")/customers/customerinfo[addr/city = "Toronto"] [assistant]/concat("  ",  name/text() , "    ")

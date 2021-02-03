@@ -1,0 +1,1 @@
+doc("purchaseorders.xml")/PurchaseOrders/PurchaseOrder[@Status="Shipped"][item/partid = "100-201-01"]/concat(" PoNum: " , [@PoNum ] , "    ")
