@@ -1,0 +1,1 @@
+CREATE TABLE CSE532.ZIPPOP (ZIP varchar(50), COUNTY varchar(50),  GEOID varchar(50), ZPOP Double) COMPRESS YES
